@@ -22,7 +22,10 @@
 		clear: left;
 		background-color: #eed2cc;
 	}
-	
+
+	#section0 {
+text-align:center;
+}
 	p, li, #pdiv {
 		background-color: #eed2cc;
 		color: #54595F;
