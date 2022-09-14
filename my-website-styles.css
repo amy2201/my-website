@@ -5,6 +5,12 @@
 	html {
 		font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
 	}
+	
+	#header-nav {
+	background-color: #e0c779;
+	border-radius: 0;
+	border: 0;
+	}
 	body {
 		background-color: #6c9a8b;
 		line-height: 1.5;
